@@ -1,0 +1,181 @@
+
+.charcho  {
+
+    border: 20px solid rgb(230, 8, 8); 
+width: 400px; 
+ height: 400px; 
+ margin-top: 10px;  
+margin-left: 300px;
+
+background-color: green;
+
+display: center;
+
+margin-top: px;
+margin-left: px;
+
+animation-name:  k-anim ;
+animation-duration: 5s;
+animation-iteration-count: infinite;
+
+
+  position: relative;
+    z-index: 35;
+
+
+
+}
+
+
+.foto {
+
+
+margin-left: 40px;
+
+margin-top: 20px;
+
+
+}
+
+
+
+
+
+@keyframes -anim {
+
+   0% {  transform: translatex(0px);   }
+
+    50%  { transform: translateX(0px);
+    
+    border: rgb(216, 8, 8);
+    }
+
+
+    100%  { transform: translateX(0px);}
+
+
+
+
+}
+                                            
+
+
+.windows {
+
+color: rgb(238, 5, 5);
+
+margin-left: 35px;
+
+margin-top: -5px ;
+
+font-size: 28px;
+
+  position: relative;
+    z-index: 2;
+
+
+
+animation-name:  wind-anim ;
+animation-duration: 1s;
+animation-iteration-count: infinite;
+}
+
+
+.teqsti  {
+
+font-size: 13px;
+
+}
+
+
+
+
+@keyframes wind-anim {
+
+   0% {  transform: translatex(0px);   }
+
+    50%  { transform: translateX(0px);
+    
+    color: rgb(5, 5, 5);
+    }
+
+
+    100%  { transform: translateX(0px);}
+
+
+
+
+}
+                                            
+.cxrili {
+
+border: 2px solid rgb(3, 3, 3) ;
+
+margin-top: -494px;
+     
+}
+
+
+ 
+
+
+
+.cxrili2 {
+
+border: 2px solid red;
+
+margin-top: 39px;
+
+margin-left: 10px;
+     
+}
+
+ 
+
+.charcho2  {
+
+    border: 20px solid rgb(230, 8, 8); 
+width: 510px; 
+ height: 510px; 
+ margin-top: 10px;  
+margin-left: 100px;
+
+
+background-color: rgb(34, 0, 128);
+
+display: bloc;
+
+margin-top: -495px;
+margin-left:  700px;
+
+animation-name:  k-anim ;
+animation-duration: 5s;
+animation-iteration-count: infinite;
+
+
+  position: relative;
+    z-index: 35;
+
+    transform: scale(0.8); 
+
+
+}
+
+
+.foto2 {
+
+
+margin-left: 40px;
+
+margin-top: 20px;
+
+
+}
+
+
+.interneti {
+
+font-size: 20px;
+
+
+}
